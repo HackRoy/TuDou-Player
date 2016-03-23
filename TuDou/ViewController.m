@@ -11,6 +11,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    NSLog(@"这是一个Mac程序");
     [super viewDidLoad];
 
     // Do any additional setup after loading the view.
